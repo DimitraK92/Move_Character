@@ -1,0 +1,19 @@
+﻿#player {
+    position: absolute;
+    background: url(character.png) no-repeat;
+    width: 109px;
+    height: 154px;
+}
+
+#map {
+    background: url(maze.png) no-repeat;
+    background-size: auto;
+    position: relative;
+    margin: auto;
+    height: 1500px;
+    width: 80%;
+}
+
+h1 {
+    text-align:center;
+}
